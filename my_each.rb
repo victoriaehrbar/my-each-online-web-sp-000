@@ -4,5 +4,5 @@ while i < 4 do
   yield collection[i]
    i += 1
 end
-return i 
+return i
 end
