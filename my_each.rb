@@ -6,4 +6,5 @@ while i < 4 do
   #  return i
    i += 1
 end
+return i 
 end
